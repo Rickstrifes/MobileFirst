@@ -1,0 +1,9 @@
+header {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+
+.icon-size {
+    font-size: 5em !important; /* Adjust the size as needed */
+}
